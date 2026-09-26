@@ -75,7 +75,7 @@ def add_box_field(cell, label, val):
     r2 = p.add_run(val)
     r2.font.name = 'Times New Roman'
 
-add_box_field(tbl.cell(0, 0), "Họ và Tên: ", "Võ Duy Khang")
+add_box_field(tbl.cell(0, 0), "Họ và Tên: ", "Trần Minh Khang")
 add_box_field(tbl.cell(0, 1), "MSSV: ", "2387700027")
 add_box_field(tbl.cell(1, 0), "Lớp: ", "23DATA1 / ATTT")
 add_box_field(tbl.cell(1, 1), "GitHub: ", "khang1233/TH_LTANTT_2387700027")

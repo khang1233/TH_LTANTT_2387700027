@@ -1,7 +1,7 @@
 # TRƯỜNG ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH (HUTECH)
 ### KHOA CÔNG NGHỆ THÔNG TIN
 **Môn học:** Thực hành Lập trình An toàn thông tin  
-**Họ và Tên:** Võ Duy Khang - **MSSV:** 2387700027 - **Lớp:** 23DATA1  
+**Họ và Tên:** Trần Minh Khang - **MSSV:** 2387700027 - **Lớp:** 23DATA1  
 **GitHub:** [khang1233/TH_LTANTT_2387700027](https://github.com/khang1233/TH_LTANTT_2387700027.git)  
 
 ---
