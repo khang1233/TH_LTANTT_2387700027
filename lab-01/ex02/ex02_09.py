@@ -6,8 +6,8 @@ def kiem_tra_so_nguyen_to(n):
             return False
     return True
 
-number = int(input("Nhập vào số cần kiểm tra: "))
+number = int(input("Nhap vao so can kiem tra: "))
 if kiem_tra_so_nguyen_to(number):
-    print(number, "là số nguyên tố.")
+    print(number, "la so nguyen to.")
 else:
-    print(number, "không phải là số nguyên tố.")
+    print(number, "khong phai la so nguyen to.")
